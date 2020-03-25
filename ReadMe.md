@@ -1,5 +1,5 @@
 # CheckGyro
-![PIDControl](image/CheckGyro.png)
+![CheckGyro](image/CheckGyro.png)
 CheckGyroは、ジャイロがバグっている時警告するマイブロックである。
 
 ## 概要
